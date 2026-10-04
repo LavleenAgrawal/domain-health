@@ -1,0 +1,6 @@
+domain,dkim_selector
+google.com,google
+microsoft.com,selector1
+example.com,
+bad domain,
+
